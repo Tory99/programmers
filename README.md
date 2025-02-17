@@ -1,30 +1,49 @@
 # programmers 부트캠프
-## 1주차 과제
 
-리스트
-- 순서가 없는 리스트
-- 순서가 없는 리스트
+# 총 정리
+강의를 들을 때 마다 메모하여 정리한 블로그
 
-1. 순서가 있는 리스트
-2. 순서가 있는 리스트
+## Markdown과 버전관리
+https://tory0826.tistory.com/1
 
-기울이기
-_기울어진 글씨체_
+## cmd의 CLI, Git 명령어
+https://tory0826.tistory.com/2
 
-굴게
-**굵은 글씨체**
+## Github 연결 및 명령어
+https://tory0826.tistory.com/3
 
-글씨 크기
-# 1단계
-## 2단계
-### 3단계
-#### 4단계
+## Git Branch와 전략
+https://tory0826.tistory.com/4
 
-코드 보여주기
-```
-//주석 실행
-System.out.println("Hello");
-```
+## 인터넷의 정의와 HTML 기본 문법
+https://tory0826.tistory.com/5
 
-인용문
-> 강조가 필요한 말
+## CSS와 Javascript
+https://tory0826.tistory.com/6
+
+## 백엔드의 개념과 Node.js, http
+https://tory0826.tistory.com/7
+
+## 데이터베이스 Mysql
+https://tory0826.tistory.com/8
+
+## Rest API
+https://tory0826.tistory.com/9
+
+## HTTP의 method와 npm
+https://tory0826.tistory.com/10
+
+## express와 json
+https://tory0826.tistory.com/11
+
+## Map, 네이밍 케이스
+https://tory0826.tistory.com/12
+
+## express 구조와 Javascript 함수 4가지
+https://tory0826.tistory.com/13
+
+## Postman 실습
+https://tory0826.tistory.com/14
+
+
+
